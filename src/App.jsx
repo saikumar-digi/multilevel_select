@@ -47,7 +47,7 @@ const App = () => {
 
   return (
     <div>
-      <p>Slect country</p>
+      <p>Select Country</p>
       <select
         value={selectedCountry}
         onChange={handleCountryChange}
